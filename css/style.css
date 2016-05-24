@@ -1,0 +1,24 @@
+h1 {
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  color: #3E4F7D;
+}
+
+h2 {
+  color: #0FD2CD;
+}
+
+html {
+  background-color: #fffadd;
+}
+
+ul {
+  font-family: "Arial", sans-serif;
+  line-height: 30px
+}
+
+p {
+  text-align: center;
+  color: #77AAFF;
+  font-size: 25px;
+}
