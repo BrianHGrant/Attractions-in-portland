@@ -4,17 +4,38 @@ h1 {
   color: #3E4F7D;
 }
 
-h2 {
+h2.attractions {
   color: #0FD2CD;
+}
+
+h2.eateries {
+  color: green;
+}
+
+h2.museums {
+  color: red;
 }
 
 html {
   background-color: #fffadd;
 }
 
-ul {
+ul.attractions {
   font-family: "Arial", sans-serif;
+  font-style: italic;
   line-height: 30px
+}
+
+ul.eateries {
+  font-family: "Arial", sans-serif;
+  line-height: 30px;
+  font-weight: bold;
+}
+
+ul.Museums {
+  font-family: monospace;
+  line-height: 30px;
+
 }
 
 p {
